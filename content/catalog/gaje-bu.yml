@@ -1,0 +1,18 @@
+name: GAJE-BU
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: I-01a
+fandom: >-
+  riverdale, voltron, teen wolf, supernatural, harry potter, stranger things,
+  sherlock, gravity falls, game of thrones, life is strange, disney, marvel, dc,
+  pokemon, haikyuu, boruto, tokyo ghoul
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: gaje-bu.jpg
+slug: gaje-bu

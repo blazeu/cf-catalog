@@ -1,0 +1,16 @@
+name: Afternoon Azalanz
+sample: afternoon-azalanz-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-06a
+fandom: 'Azur Lane, Fate Grand Order, Girls und Panzer'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/AfternoonNapsCircle/'
+circle_pixiv: '-'
+image: afternoon-azalanz.jpg
+slug: afternoon-azalanz

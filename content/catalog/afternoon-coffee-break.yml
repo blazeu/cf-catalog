@@ -1,0 +1,19 @@
+name: Afternoon Coffee Break
+sample: afternoon-coffee-break-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-13b
+fandom: >-
+  Fate Series, Honkai Impact (Houkai 3rd), Azur Lane, Darling in the Franxx,
+  Re:Zero, Im@s, Overlod, Overwatch, Nier Automata, Youjo Senki, Kimi No Na wa,
+  Boku no hero academia, houseki no kuni, Utaite, BTS
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/Afkaburi/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=13147666'
+image: afternoon-coffee-break.jpg
+slug: afternoon-coffee-break

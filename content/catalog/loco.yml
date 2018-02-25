@@ -1,0 +1,16 @@
+name: LOCO
+sample: loco-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: D-05b (SAT)
+fandom: 'Original, Rabbit Themed, Game of Thrones'
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/thesimplylife'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: loco.jpg
+slug: loco

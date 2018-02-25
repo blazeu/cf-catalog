@@ -1,0 +1,16 @@
+name: Handband Studios
+sample: handband-studios-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-01a
+fandom: 'Love live, Blend S, Azur Lane, Granblue Fantasy, Kantai collection'
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/handbandstudios'
+circle_facebook: 'https://web.facebook.com/handbandstudios'
+circle_pixiv: '-'
+image: handband-studios.jpg
+slug: handband-studios

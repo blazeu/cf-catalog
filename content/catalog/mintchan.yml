@@ -1,0 +1,16 @@
+name: Mintchan
+sample: mintchan-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 1
+SellsCD: 1
+booth_number: A-02a
+fandom: 'Original, Mintchan , Kumamapi , Doujin'
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/omaruart'
+circle_facebook: 'https://www.facebook.com/omaruart'
+circle_pixiv: '-'
+image: mintchan.jpg
+slug: mintchan

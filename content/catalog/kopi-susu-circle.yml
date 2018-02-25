@@ -1,0 +1,16 @@
+name: Kopi Susu Circle
+sample: kopi-susu-circle-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: F-09ab
+fandom: 'Fate Series, Granblue Fantasy, Azur Lane, and Seasonal anime stuffs'
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/KopiSusuCircle/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=10877489'
+image: kopi-susu-circle.jpg
+slug: kopi-susu-circle

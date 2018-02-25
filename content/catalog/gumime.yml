@@ -1,0 +1,15 @@
+name: Gumime
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB13
+fandom: 'Love Live, Vocaloid'
+rating: General Audience (GA)
+circle_twitter: '@gumimecv'
+circle_facebook: 'https://www.facebook.com/gumimecv'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=14735268'
+image: gumime.jpg
+slug: gumime

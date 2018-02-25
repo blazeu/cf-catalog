@@ -1,0 +1,19 @@
+name: bungoutrash
+sample: bungoutrash-sample.jpeg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: J-10ab
+fandom: >-
+  Boku no Hero Academia, bungou stray dogs, doki doki literature club, re:zero,
+  danganronpa, konosuba, haikyuu, stranger things, spiderman: homecoming, dragon
+  maid, pop team epic, kakegurui, youjo senki, mob psycho 100
+rating: General Audience (GA)
+circle_twitter: 'https://www.twitter.com/bungoutrash'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: bungoutrash.jpeg
+slug: bungoutrash

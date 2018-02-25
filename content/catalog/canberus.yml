@@ -1,0 +1,17 @@
+name: Canberus
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-20ab (SAT)
+fandom: >-
+  Danganronpa, Mystic Messenger, Original, Otome Game, Natsume Yuujinchou,
+  Saiyuki, Boku no Hero Academia, Happy Tree Friend, etc.
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/xoraxiii (personal)'
+circle_facebook: 'https://www.facebook.com/canberus/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=6142983 (personal)'
+image: canberus.jpg
+slug: canberus

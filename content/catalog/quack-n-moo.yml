@@ -1,0 +1,16 @@
+name: Quack 'n Moo
+sample: quack-n-moo-sample.png
+isSaturday: 0
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-09b (SUN)
+fandom: 'Original, Blend S, DC, Disney, etc.'
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/vyolfers'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: quack-n-moo.jpg
+slug: quack-n-moo

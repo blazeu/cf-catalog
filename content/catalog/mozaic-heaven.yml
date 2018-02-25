@@ -1,0 +1,16 @@
+name: Mozaic Heaven
+sample: mozaic-heaven-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 1
+SellsCD: 0
+booth_number: A-15ab (SAT)
+fandom: 'original, indiegame'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/mozaicheaven/'
+circle_pixiv: '-'
+image: mozaic-heaven.jpg
+slug: mozaic-heaven

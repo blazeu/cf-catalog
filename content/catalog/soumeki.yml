@@ -1,0 +1,15 @@
+name: Soumeki
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB28
+fandom: 'Haikyuu, Yuri on Ice, Fate Series, Persona 5, Tsukiuta, Idolish7'
+rating: General Audience (GA)
+circle_twitter: SR_Soumeki
+circle_facebook: 'https://www.facebook.com/SR.Soumeki/'
+circle_pixiv: '-'
+image: soumeki.png
+slug: soumeki

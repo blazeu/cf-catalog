@@ -1,0 +1,18 @@
+name: HOLY*day
+sample: holyday-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: I-18b (SAT)
+fandom: >-
+  Utaite, A3!, FGO, RWBY, Ib, CCS, BnHA, Joker Game, Houseki no Kuni, Vocaloid,
+  Darling in the franxx, Gakuen Babysitter
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/NaOH_21'
+circle_facebook: '-'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=18112572'
+image: holyday.jpg
+slug: holyday

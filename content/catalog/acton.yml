@@ -1,0 +1,17 @@
+name: ACT!ON
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: B-13ab
+fandom: >-
+  Original, Haikyuu, Yuri on Ice, Mystic Messenger, Love Live, ACOTAR, EXO,
+  Persona5, Thor, Gintama,
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/_iraseugin'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: acton.jpg
+slug: acton

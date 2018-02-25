@@ -1,0 +1,18 @@
+name: BF2 waiting room
+sample: bf2-waiting-room-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: H-03ab (SAT)
+fandom: |-
+  Blend S// Alchemist Code, Crash Fever, Deemo, King's Raid, Egglia
+  //NDRV3, Legend of Mana, Persona 5, Pokemon, Touhou//BTS, Wanna One
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/miririri'
+circle_facebook: '-'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=3936832'
+image: bf2-waiting-room.jpg
+slug: bf2-waiting-room

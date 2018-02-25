@@ -1,0 +1,18 @@
+name: Rockudin
+sample: rockudin-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-07ab
+fandom: >-
+  Idolm@ster, Yuri on Ice!, Gakuen Babysitter, Sora yori mo Tooi Basho, Oyasumi
+  Punpun, Original
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: rockudin.png
+slug: rockudin

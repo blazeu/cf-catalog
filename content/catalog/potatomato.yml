@@ -1,0 +1,15 @@
+name: POTATOMATO
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-37b
+fandom: 'BTS, My Hero Academia, Mystic Messenger, Haikyuu, Seventeen'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: potatomato.jpg
+slug: potatomato

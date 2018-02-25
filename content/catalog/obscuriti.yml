@@ -1,0 +1,18 @@
+name: Obscuriti
+sample: obscuriti-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-08ab (SAT)
+fandom: >-
+  Overwatch, MCU, Fire Emblem, Tokusatsu, Haikyuu!!, Idolm@ster Sidem, Fate
+  Grand Order, housamo
+rating: Mature Content (M)
+circle_twitter: 'https://twitter.com/orenjimaru'
+circle_facebook: '-'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=2408371'
+image: obscuriti.jpg
+slug: obscuriti

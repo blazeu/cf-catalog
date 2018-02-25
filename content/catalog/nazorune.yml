@@ -1,0 +1,18 @@
+name: NAZORUNE
+sample: nazorune-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: B-11b
+fandom: >-
+  Original, Overwatch, Nier Automata, Persona 5, Bloodborne, FF, DC, League of
+  Legends, Ajin, OPM, Haikyuu, Ballroom e Youkoso, YOI
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/mecharune'
+circle_facebook: '-'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=19491270'
+image: nazorune.jpg
+slug: nazorune

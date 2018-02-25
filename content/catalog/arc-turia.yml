@@ -1,0 +1,18 @@
+name: Arc Turia
+sample: arc-turia-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-13ab
+fandom: >-
+  overwatch, animals(dogs,sharks,etc), monster hunter, pokemon, kingdom hearts,
+  dragons, digimon, undertale, final fantasy xiii
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: arc-turia.png
+slug: arc-turia

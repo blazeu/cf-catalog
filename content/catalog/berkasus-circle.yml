@@ -1,0 +1,19 @@
+name: BERKASUS Circle
+sample: berkasus-circle-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-03a
+fandom: >-
+  Boku no Hero Academia, Houseki no Kuni, Darling in the Franxx, Saiki Kusuo no
+  Sainan, Black Clover, Idolm@ster, Tales of series, We Bare Bears, Little Witch
+  Academia, Rage of Bahamut, originals
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/shiinashiro'
+circle_facebook: 'https://www.facebook.com/shiinashiroo/'
+circle_pixiv: '-'
+image: berkasus-circle.jpg
+slug: berkasus-circle

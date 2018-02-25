@@ -1,0 +1,17 @@
+name: WEDANK
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-11a
+fandom: >-
+  Overwatch, Golden Kamui, Yakuza, Voltron, My Hero Academia, Steven Universe,
+  Marvel
+rating: Parental Guidance (PG)
+circle_twitter: '@dzoelai'
+circle_facebook: '-'
+circle_pixiv: 'https://pixiv.me/dzul'
+image: wedank.png
+slug: wedank

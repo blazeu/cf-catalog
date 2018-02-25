@@ -1,0 +1,19 @@
+name: SNAFU
+sample: snafu-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: C-08ab
+fandom: >-
+  Original, Girls Und Panzer, Strike Witches, Kantai collection, Panzerwaltz,
+  Overwatch, Girls Last Tour, Frame Arms Girl, Honkai Impact, Youjo Senki, Azure
+  Lane, Metal Slug, Granblue Fantasy
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/snafucircle/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=17058664'
+image: snafu.png
+slug: snafu

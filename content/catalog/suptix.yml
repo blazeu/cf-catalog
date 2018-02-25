@@ -1,0 +1,15 @@
+name: SUPTIX
+isSaturday: 0
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 0
+SellsGame: 0
+SellsCD: 0
+booth_number: F-03b (SUN)
+fandom: 'Granblue Fantasy, Ensemble Stars, Nier;Automata, Houseki no Kuni'
+rating: Parental Guidance (PG)
+circle_twitter: '@ufo1898'
+circle_facebook: '-'
+circle_pixiv: 'https://pixiv.me/ufo1898'
+image: suptix.jpg
+slug: suptix

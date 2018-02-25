@@ -1,0 +1,18 @@
+name: LoveLatte
+sample: lovelatte-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-10a (SUN)
+fandom: >-
+  Danganronpa, Osomatsu-san, Boboiboy, Eromanga, Bungou Stray Dogs, Utaite, Doki
+  Doki Literature Club, K-Pop, Boku no Hero Academia, Pop Team Epic
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: lovelatte.jpg
+slug: lovelatte

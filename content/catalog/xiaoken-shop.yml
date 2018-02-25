@@ -1,0 +1,15 @@
+name: XiaoKen Shop
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: B-14b
+fandom: Original
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/XiaoKenShop/'
+circle_pixiv: '-'
+image: xiaoken-shop.jpg
+slug: xiaoken-shop

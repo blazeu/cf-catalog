@@ -1,0 +1,15 @@
+name: Hello Rangers
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: D-05a (SAT)
+fandom: 'ghibli, game, Original'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: hello-rangers.jpg
+slug: hello-rangers

@@ -1,0 +1,16 @@
+name: Good Deal
+sample: good-deal-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB12
+fandom: 'Jojo''s Bizzare Adventure JJBA, Gundam, Kingsman,'
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/pg/gooddeal.id'
+circle_pixiv: '-'
+image: good-deal.png
+slug: good-deal

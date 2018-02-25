@@ -1,0 +1,16 @@
+name: Myork Drop
+sample: myork-drop-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-36b
+fandom: 'BTS, GOT7, Seventeen, Attack on Titan'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: myork-drop.jpg
+slug: myork-drop

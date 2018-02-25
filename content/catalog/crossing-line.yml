@@ -1,0 +1,16 @@
+name: Crossing Line
+sample: crossing-line-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: B-06b
+fandom: "Original, Touken Ranbu,  Thor,  Noblesse, Boku no Hero Academia, Vocaloid, \r\n Webtoon,  Eggnoid,  Yome no Mahoutsukai,Fate Grand Order, \r\n Violet Evergarden,  Steins Gate,  Devilman  Crybaby,  Haikyuu"
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: crossing-line.png
+slug: crossing-line

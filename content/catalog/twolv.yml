@@ -1,0 +1,16 @@
+name: T.Wolv
+sample: twolv-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: L-07ab
+fandom: 'Yuri on Ice, Mystic Messenger, Free, HQ,'
+rating: Mature Content (M)
+circle_twitter: 'https://twitter.com/twolvart'
+circle_facebook: 'https://www.facebook.com/twolvart/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=1395977'
+image: twolv.png
+slug: twolv

@@ -1,0 +1,18 @@
+name: BudakTekAguk
+sample: budaktekaguk-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: L-11ab
+fandom: >-
+  Yuru Camp, Haikyuu!!, Touken Ranbu, Fate series, Original, Boku No Hero
+  Academia, FGO, Ensemble Star
+rating: General Audience (GA)
+circle_twitter: 'http://twitter.com/kooroiwwa'
+circle_facebook: 'https://www.facebook.com/shirophetto'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=3465849'
+image: budaktekaguk.jpg
+slug: budaktekaguk

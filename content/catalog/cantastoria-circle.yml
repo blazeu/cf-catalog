@@ -1,0 +1,21 @@
+name: Cantastoria Circle
+sample: cantastoria-circle-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: F-14ab
+fandom: >-
+  Granblue Fantasy, Touken ranbu, EXO, Love live, Gintama, Magic kaito,
+  Ensemble, Vocaloid, utaite, Amnesia, Your lie in april, Honeyworks, BTS,
+  Mobile Legend, Houseki no Kuni, Harvest Moon, Fire emblem amino, Shelter,
+  Doki-doki literature club, Elsword, Shokugeki no soma, Arena of valor,
+  Blackpink, Hanamaru, Original
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://m.facebook.com/cantastoriacircle/'
+circle_pixiv: '-'
+image: cantastoria-circle.jpg
+slug: cantastoria-circle

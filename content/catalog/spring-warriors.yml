@@ -1,0 +1,15 @@
+name: Spring Warriors
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-11b
+fandom: 'Touken Ranbu, Fate Series, Tales Series, Persona 5, Boku no Hero Academia'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/springwarriors/'
+circle_pixiv: '-'
+image: spring-warriors.jpg
+slug: spring-warriors

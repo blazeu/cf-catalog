@@ -1,0 +1,20 @@
+name: Bulatan
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-38ab
+fandom: >-
+  BTS, BT21, Seventeen, Boku No Hero Academia, Danganronpa, Killing Stalking,
+  DC, Persona 5, Pokemon, Final Fantasy, Zelda, Enstars, Love Live, Delicious in
+  Dungeon, Splatoon, Steven Universe, Star vs. The Forces of Evil, Adventure
+  Time, Voltron Legendary Defender, Stranger Things, Dan and Phil, Bandoms,
+  Percy Jackson
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: bulatan.png
+slug: bulatan

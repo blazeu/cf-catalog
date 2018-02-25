@@ -1,0 +1,17 @@
+name: Magicaloid
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: J-20a
+fandom: >-
+  B-Project, Diabolik Lovers, Dance With Devils, Love Live, Hunter x Hunter,
+  Vocaloid, No Game No Life, Date A Live, Fate, Otome, etc.
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: magicaloid.png
+slug: magicaloid

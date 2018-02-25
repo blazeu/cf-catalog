@@ -1,0 +1,17 @@
+name: FPSMOE
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-10ab
+fandom: >-
+  Fate Grand Order, Blend S, Imouto sae Ireba Ii, Kono Subarashii Sekai ni
+  Shukufuku wo, Kobayashi-san Chi no Maid Dragon
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/fpsmoe'
+circle_facebook: 'https://www.facebook.com/FigurePhotoStudio/'
+circle_pixiv: '-'
+image: fpsmoe.jpg
+slug: fpsmoe

@@ -1,0 +1,19 @@
+name: LADDERBROS
+sample: ladderbros-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: L-17ab
+fandom: >-
+  Haikyuu!! , My Hero Academia , Yuri on Ice , Marvel , DC, Kingdom hearts ,
+  FFXV , Fire emblem heroes , Pokemon , X men , Teen wolf , Hannibal , Star
+  Trek, Houseki no Kuni
+rating: General Audience (GA)
+circle_twitter: 'http://www.twitter.com/halotangga'
+circle_facebook: 'http://www.facebook.com/ladderbros'
+circle_pixiv: '-'
+image: ladderbros.jpg
+slug: ladderbros

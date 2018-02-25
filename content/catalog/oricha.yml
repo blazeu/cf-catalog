@@ -1,0 +1,18 @@
+name: Oricha
+sample: oricha-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-32a
+fandom: >-
+  Mystic Messenger, Card Captor Sakura, Persona 5, Haikyuu!!, Seventeen, Ghibli,
+  Boku no Hero Academia, BTS, Devilman Crybaby, Twice, Blackpink, Exo, Yurion
+  Ice, Love Life, Overwatch
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+slug: oricha

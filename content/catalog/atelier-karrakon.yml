@@ -1,0 +1,18 @@
+name: Atelier Karrakon
+sample: atelier-karrakon-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-14b
+fandom: >-
+  Fate Series, Overwatch, Kantai Collection, Monster Hunter, Kingdom Hearts,
+  Shigatsu kimi no Uso, Himouto!Umaru Chan, Fire Emblem
+rating: General Audience (GA)
+circle_twitter: 'http://twitter.com/Karrarin'
+circle_facebook: 'http://facebook.com/AtelierKarrakon'
+circle_pixiv: 'https://pixiv.me/whitewisewolf'
+image: atelier-karrakon.jpg
+slug: atelier-karrakon

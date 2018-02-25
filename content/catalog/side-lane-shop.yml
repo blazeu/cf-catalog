@@ -1,0 +1,17 @@
+name: Side Lane Shop
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-12b
+fandom: >-
+  Dota 2, Mystic Messenger, Overwatch, Ghibli, Kobayashi Dragon Maid,
+  Mahoutsukai No Yome, Zelda, etc
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: side-lane-shop.png
+slug: side-lane-shop

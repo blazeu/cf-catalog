@@ -1,0 +1,16 @@
+name: Euforia Visual Works
+sample: euforia-visual-works-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: F-01a
+fandom: 'Fate Grand Order, Love Live, Persona, Neptune'
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/euforianatsumi'
+circle_facebook: 'https://web.facebook.com/euforiaamuritanatsumi/'
+circle_pixiv: 'https://pixiv.me/134121'
+image: euforia-visual-works.jpg
+slug: euforia-visual-works

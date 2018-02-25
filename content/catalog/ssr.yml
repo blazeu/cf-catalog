@@ -1,0 +1,15 @@
+name: SSR
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-12b
+fandom: 'Ken ga Kimi, A3!,Idolish7,Band Yarouze,Utapri,Ensemble Stars!'
+rating: General Audience (GA)
+circle_twitter: halcamint
+circle_facebook: 'https://www.facebook.com/halcamint/'
+circle_pixiv: '4409080'
+image: ssr.jpg
+slug: ssr

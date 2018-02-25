@@ -1,0 +1,18 @@
+name: Sunny Days
+sample: sunny-days-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-10ab (SAT)
+fandom: >-
+  Love Live, BNHA, Killing Stalking, RWBY, K-pop, Pokemon, Cuphead, Persona,
+  Voltron, Original
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: sunny-days.jpg
+slug: sunny-days

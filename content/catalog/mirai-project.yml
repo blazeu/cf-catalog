@@ -1,0 +1,17 @@
+name: Mirai Project
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB21
+fandom: >-
+  Fate series, Granblue Fantasy , One piece , Naruto , Haikyuu , Kantai
+  collection, Gintama , Blend S
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: 'https://miraiofproject.deviantart.com/'
+image: mirai-project.jpg
+slug: mirai-project

@@ -1,0 +1,18 @@
+name: Sekiranun Circle
+sample: sekiranun-circle-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB26
+fandom: >-
+  Azur Lane, Fate series, Touhou, Miku, granblue fantasy, Kantai collection,
+  Boku No Hero
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/?lang=en'
+circle_facebook: 'https://www.facebook.com/SekiranunProject/'
+circle_pixiv: 'https://www.pixiv.net/member_illust.php?id=3014645'
+image: sekiranun-circle.jpg
+slug: sekiranun-circle

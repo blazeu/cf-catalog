@@ -1,0 +1,16 @@
+name: Reverse Project
+sample: reverse-project-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 1
+booth_number: CB23
+fandom: Original Music
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/ReverseProject_'
+circle_facebook: 'https://www.facebook.com/ReverseProject00/'
+circle_pixiv: 'http://reverse-project.com/'
+image: reverse-project.jpg
+slug: reverse-project

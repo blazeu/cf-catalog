@@ -1,0 +1,15 @@
+name: Markgraf
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 0
+SellsGame: 0
+SellsCD: 0
+booth_number: CB20
+fandom: 'Vocaloid,Kantai collection'
+rating: General Audience (GA)
+circle_twitter: dokuro_markgraf
+circle_facebook: '-'
+circle_pixiv: '-'
+image: markgraf.jpg
+slug: markgraf

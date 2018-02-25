@@ -1,0 +1,19 @@
+name: Fujoncena
+sample: fujoncena-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-04a
+fandom: >-
+  Persona 5, Danganronpa V3 , RWBY , kamen rider , show by rock , BTS , love
+  live sunshine , idolm@ster , splatoon, Legend of Zelda, Houseki no Kuni (HnK),
+  Granblue Fantasy (GBF), IM@S, Doki Doki Literature Club
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/Feli_chiii001'
+circle_facebook: 'https://www.facebook.com/Kaindycandy/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=6493406'
+image: fujoncena.jpg
+slug: fujoncena

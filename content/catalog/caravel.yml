@@ -1,0 +1,17 @@
+name: CARAVEL
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-10a
+fandom: >-
+  Persona 5, Boku no Hero Academia, haikyuu, kpop, kuroko no basket, overwatch,
+  game
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: caravel.jpg
+slug: caravel

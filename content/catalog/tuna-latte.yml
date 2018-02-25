@@ -1,0 +1,18 @@
+name: Tuna Latte
+sample: tuna-latte-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: L-05b
+fandom: >-
+  Yuri on Ice, Devilman Crybaby, Steven Universe, Boku no Hero Academia, Mob
+  Psycho 100, Undertale, Persona 5
+rating: Parental Guidance (PG)
+circle_twitter: 'http://twitter.com/apocalypselatte'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: tuna-latte.jpg
+slug: tuna-latte

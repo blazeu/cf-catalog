@@ -1,0 +1,15 @@
+name: Lumière Circle
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: H-14b
+fandom: 'Ghibli, Fate, Love Live, Kamen Rider'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/lumierecircle'
+circle_pixiv: 'https://pixiv.me/adriabie21'
+image: lumiere-circle.jpg
+slug: lumiere-circle

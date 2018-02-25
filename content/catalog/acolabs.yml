@@ -1,0 +1,15 @@
+name: acolabs
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: C-14b (SAT)
+fandom: Original
+rating: General Audience (GA)
+circle_twitter: '@acolabssma'
+circle_facebook: 'https://www.facebook.com/Acolabs/'
+circle_pixiv: '-'
+image: acolabs.png
+slug: acolabs

@@ -1,0 +1,16 @@
+name: NOMAD Creative Corps
+sample: nomad-creative-corps-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: H-12ab-13ab
+fandom: 'BNHA,Ghibli, Cardcaptor Sakura, Super Junior'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/hapigorashop'
+circle_pixiv: '-'
+image: nomad-creative-corps.jpeg
+slug: nomad-creative-corps

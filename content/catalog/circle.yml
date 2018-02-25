@@ -1,0 +1,17 @@
+name: '??? Circle'
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB01
+fandom: >-
+  Original, Granblue Fantasy, Love Live, Yu-Gi-Oh!, Kantai collection, Fate, FF,
+  Yuri On Ice, Zestiria
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/dannbrz'
+circle_facebook: '-'
+circle_pixiv: 'https://pixiv.me/dannbrz'
+image: circle.jpg
+slug: circle

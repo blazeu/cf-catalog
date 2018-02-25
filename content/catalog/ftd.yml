@@ -1,0 +1,15 @@
+name: FTD
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: J-16a
+fandom: 'Boku no hero academia, Houseki no Kuni, Hyperdimension Neptunia, Shelter,'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: ftd.jpg
+slug: ftd

@@ -1,0 +1,15 @@
+name: Serendipity
+isSaturday: 1
+isSunday: 0
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: G-08b (SUN)
+fandom: 'Boku no hero no academia, Pokemon, Danganronpa, BTS, Persona etc.'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: serendipity.jpg
+slug: serendipity

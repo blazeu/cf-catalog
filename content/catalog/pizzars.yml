@@ -1,0 +1,15 @@
+name: Pizzars
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-18ab
+fandom: 'Mystic Messenger, Boku no Hero Academia, Persona, BTS, Seventeen, Touken Ranbu'
+rating: General Audience (GA)
+circle_twitter: rieeen17
+circle_facebook: '-'
+circle_pixiv: '-'
+image: pizzars.png
+slug: pizzars

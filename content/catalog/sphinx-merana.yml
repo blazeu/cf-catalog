@@ -1,0 +1,16 @@
+name: Sphinx Merana
+sample: sphinx-merana-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: C-10ab
+fandom: Original
+rating: General Audience (GA)
+circle_twitter: 'https://mobile.twitter.com/@kuroreoo'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: sphinx-merana.jpg
+slug: sphinx-merana

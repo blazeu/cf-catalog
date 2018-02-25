@@ -1,0 +1,17 @@
+name: Idol Catcher
+isSaturday: 0
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: J-18a (SUN)
+fandom: >-
+  Seventeen (KPOP), EXO (KPOP), BTS (KPOP), Wanna One (KPOP), Ensemble Stars,
+  Idolish7, iDOlM@STER side M, Haikyuu!!, Yuri on Ice
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/belaterr'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: idol-catcher.jpg
+slug: idol-catcher

@@ -1,0 +1,16 @@
+name: CAMP-pret
+sample: camp-pret-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-15ab
+fandom: 'Touken Ranbu, FGO, granblue fantasy, FFX, Nier, etc..'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/camppret123'
+circle_pixiv: '-'
+image: camp-pret.jpg
+slug: camp-pret

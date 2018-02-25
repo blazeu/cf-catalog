@@ -1,0 +1,17 @@
+name: avogatto
+isSaturday: 0
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: H-03a (SUN)
+fandom: >-
+  Marvel, Sherlock Holmes, Saint Seiya, YuGiOh, Captain Tsubasa, Digimon, Fate
+  Grand Order, Grand Blue Fantasy, Persona 5, Love Live, Original
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/avogatto48'
+circle_facebook: 'https://www.facebook.com/avogatto'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=10532734'
+image: avogatto.jpg
+slug: avogatto

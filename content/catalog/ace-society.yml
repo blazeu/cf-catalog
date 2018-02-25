@@ -1,0 +1,21 @@
+name: ACE Society
+sample: ace-society-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: D-08ab
+fandom: >-
+  Cardcaptor Sakura, Final Fantasy, Gakuen Babysitters, Haikyu!!, Houseki no
+  Kuni, Kantai Collection, Love Live! Sunshine!!, Macross Delta, Mystic
+  Messenger, Onmyouji, Original, Overwatch, Phantasy Star Online 2, Pop Team
+  Epic, Tekken, Touken Ranbu, Virtual Youtuber (Kaguya Luna, Kizuna Ai), 
+  Western (MCU, SKAM, Star Trek, Teen Wolf)
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/ACES_circle'
+circle_facebook: 'https://www.facebook.com/ACEScircle'
+circle_pixiv: '-'
+image: ace-society.jpg
+slug: ace-society

@@ -1,0 +1,20 @@
+name: FlyingPantsu
+sample: flyingpantsu-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-06b
+fandom: >-
+  Touken Ranbu, Nier:Automata, BTS, Utaite, Voltron, Naruto, Mobile Legend, Fate
+  series, Free, Kuroko no Basket, Karneval, Makai Ouji, Osomatsu, DCMK, Persona
+  series, Houseki no Kuni, Star Wars, Mystic Messenger, Code Geass, Mekakucity
+  Actors, Ghibli, Elsword, Bungou Stray Dogs, Prince of Tennis
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/flyingpantsuu'
+circle_facebook: 'https://www.facebook.com/flyingpantsu/'
+circle_pixiv: '-'
+image: flyingpantsu.jpg
+slug: flyingpantsu

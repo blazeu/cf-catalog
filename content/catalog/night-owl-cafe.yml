@@ -1,0 +1,16 @@
+name: Night Owl Café
+sample: night-owl-cafe-sample.jpg
+isSaturday: 0
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 0
+SellsGame: 0
+SellsCD: 1
+booth_number: A-03a (SUN)
+fandom: 'Original, Touhou Project, Persona 3D, Persona 5D, Cardcaptor Sakura, Deemo'
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/hisuikouha'
+circle_facebook: 'https://www.facebook.com/nightowlcafe'
+circle_pixiv: '-'
+image: night-owl-cafe.jpg
+slug: night-owl-cafe

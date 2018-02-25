@@ -1,0 +1,20 @@
+name: C.A.T Cafe Au Latte
+sample: cat-cafe-au-latte-sample.png
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: E-15a
+fandom: >-
+  Fate series, Blend S, Fate series, Rpg makers horror games, One piece, Boku no
+  hero, Hoozuki no reitetsu, Gakuen Babysitters, Ten Count, KHR, DGrayman,
+  Violet Evergarden, Undertale, Cardcaptor Sakura, Pluto chan, Earth chan,
+  Dokkaebi (GOBLIN), Original, Gintama, Re:Zero
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: cat-cafe-au-latte.jpg
+slug: cat-cafe-au-latte

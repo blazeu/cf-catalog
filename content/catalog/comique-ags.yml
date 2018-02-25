@@ -1,0 +1,18 @@
+name: Comiqué AGS
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: D-07ab (SUN)
+fandom: >-
+  Doki Doki Literature Club, Houseki no Kuni, Ib, Kaito KID, Ajin, Ghibli,
+  Fate/series, Devilman crybaby, vld, natsume yuujinchou, poputepipikku, Violet
+  evergarden Original
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/14_marth/media'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: comique-ags.jpg
+slug: comique-ags

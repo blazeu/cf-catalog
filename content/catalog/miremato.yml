@@ -1,0 +1,18 @@
+name: miremato
+sample: miremato-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-19ab (SAT)
+fandom: >-
+  Osomatsu-san, Fate Grand Order (FGO), Houseki no kuni (HnK), Detective Conan &
+  Kaito Kid, Pokemon Sun & Moon,
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: miremato.jpg
+slug: miremato

@@ -1,0 +1,15 @@
+name: Circle DeadLiners
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: B-05b
+fandom: 'Original, Touhou, Final Fantasy, Persona, Mahoutsukai no Yome, Made in Abyss'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/CircleDeadliners'
+circle_pixiv: '-'
+image: circle-deadliners.jpg
+slug: circle-deadliners

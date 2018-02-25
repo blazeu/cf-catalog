@@ -1,0 +1,17 @@
+name: KyaraMeru
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: F-11ab
+fandom: >-
+  Fate Grand Order, Granblue Fantasy, Ensemble Stars, B-Project, Akatsuki no
+  Yona, Persona5, Hatsune Miku, BlendS, Ace Attorney, Profesor Layton, dsb
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/kyaramerucircle'
+circle_pixiv: '-'
+image: kyarameru.jpg
+slug: kyarameru

@@ -1,0 +1,15 @@
+name: Paguyuban Mistik
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: K-11a
+fandom: 'Touken Ranbu, Marvel Cinematic Universe, Voltron'
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/paguyubanmistik'
+circle_facebook: 'https://www.facebook.com/masdemitri'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=14634186'
+image: paguyuban-mistik.jpg
+slug: paguyuban-mistik

@@ -1,0 +1,16 @@
+name: pantser
+sample: pantser-sample.jpg
+isSaturday: 1
+isSunday: 0
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: F-03b (SAT)
+fandom: 'Kantai collection, Fate/Grand Order, Love Live,'
+rating: Parental Guidance (PG)
+circle_twitter: '-'
+circle_facebook: 'https://www.facebook.com/pantsusha/'
+circle_pixiv: '-'
+image: pantser.jpg
+slug: pantser

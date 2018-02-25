@@ -1,0 +1,47 @@
+.circle-container,
+.circle-container:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.circle-container {
+  transition: 0.2s;
+
+  &.touch {
+    transform: scale3d(0.97, 0.97, 0.97);
+  }
+}
+
+.circle-image-container {
+  width: 100px;
+  height: 142px;
+  flex-shrink: 0;
+}
+
+.circle-image-wrapper,
+.circle-no-image {
+  background-color: #eee;
+}
+
+.circle-image {
+  display: block !important;
+}
+
+.circle-no-image {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #999;
+}
+
+.circle-name {
+  font-size: 20px;
+  font-weight: bold;
+  white-space: nowrap;
+
+  &-highlight {
+    color: hotpink;
+  }
+}

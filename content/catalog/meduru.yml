@@ -1,0 +1,17 @@
+name: Meduru
+isSaturday: 0
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: F-04b (SUN)
+fandom: >-
+  Fate series, Danganronpa , Love Live , Vocaloid , Fate , Blend S , Neptune ,
+  Dota2 , Darling in the Franxx
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/medurucircle/'
+circle_facebook: 'https://facebook.com/medurucircle/'
+circle_pixiv: 'https://pixiv.me/kkaikaz'
+image: meduru.jpg
+slug: meduru

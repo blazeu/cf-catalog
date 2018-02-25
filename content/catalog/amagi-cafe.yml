@@ -1,0 +1,14 @@
+name: Amagi Cafe
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: CB02
+fandom: 'Osomatsu-san, Houseki no Kuni, Persona 3, Persona 5, South Park'
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+slug: amagi-cafe

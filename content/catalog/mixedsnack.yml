@@ -1,0 +1,18 @@
+name: MixedSnack
+sample: mixedsnack-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: H-06b
+fandom: >-
+  Original, Final Fantasy XV,  Atelier, Free!, Fate series, Fafner, Tales of,
+  Voltron, Haikyuu!, Marvel
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/Mixedsnack/status/968502897230020614'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: mixedsnack.jpg
+slug: mixedsnack

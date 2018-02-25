@@ -1,0 +1,49 @@
+.filter-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  box-shadow: 0 -3px 10px rgba(0, 0, 0, 0.05);
+}
+
+.filter-close {
+  display: block;
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  z-index: 100;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 20px;
+  background: white;
+  text-align: center;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  box-shadow: 0 -3px 10px rgba(0, 0, 0, 0.05);
+
+  .chevron {
+    padding-top: 5px;
+    margin-left: -2.7px;
+  }
+}
+
+// https://codepen.io/jonneal/pen/kptBs
+.chevron::before {
+  border-style: solid;
+  border-width: 0.15em 0.15em 0 0;
+  content: '';
+  display: inline-block;
+  height: 0.45em;
+  left: 0.15em;
+  position: relative;
+  top: 0.15em;
+  transform: rotate(-45deg);
+  vertical-align: top;
+  width: 0.45em;
+}
+
+.chevron.bottom:before {
+  top: 0;
+  transform: rotate(135deg);
+}

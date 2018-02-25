@@ -1,0 +1,16 @@
+name: Touhou DRUNK Pro
+sample: touhou-drunk-pro-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 1
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 1
+booth_number: A-05ab
+fandom: Touhou
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/thdrunk_id'
+circle_facebook: 'https://www.facebook.com/2hudrunkpro/'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=9294683'
+image: touhou-drunk-pro.jpg
+slug: touhou-drunk-pro

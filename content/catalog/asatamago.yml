@@ -1,0 +1,19 @@
+name: ASATAMAGO
+sample: asatamago-sample.jpg
+isSaturday: 1
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: L-14a
+fandom: >-
+  HETALIA, HAIKYUU!!, Boku no Hero Academia, Marvel Cinematic Universe, DC
+  Universe, Cardcaptor Sakura, Splatoon, Undertale, Cuphead, Fate Grand Order,
+  Persona 5, Houseki no Kuni, Kingsman, Original
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/ruiruicchi'
+circle_facebook: 'https://www.facebook.com/ruiruicchi/'
+circle_pixiv: '-'
+image: asatamago.jpg
+slug: asatamago

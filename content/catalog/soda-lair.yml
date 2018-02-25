@@ -1,0 +1,17 @@
+name: Soda Lair
+isSaturday: 0
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: D-05a (SUN)
+fandom: >-
+  Original, seventeen, houseki no kuni, gintama, doki doki literature club,
+  vocaloid
+rating: General Audience (GA)
+circle_twitter: '-'
+circle_facebook: '-'
+circle_pixiv: '-'
+image: soda-lair.png
+slug: soda-lair

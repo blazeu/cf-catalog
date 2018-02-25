@@ -1,0 +1,15 @@
+name: RumahKartu
+isSaturday: 0
+isSunday: 1
+SellsBooks: 0
+SellsMerch: 1
+SellsGame: 0
+SellsCD: 0
+booth_number: A-25a (SUN)
+fandom: 'BTS, BLACKPINK, ORIGINAL'
+rating: General Audience (GA)
+circle_twitter: rubahantu
+circle_facebook: '-'
+circle_pixiv: '-'
+image: rumahkartu.jpg
+slug: rumahkartu
