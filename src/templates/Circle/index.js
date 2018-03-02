@@ -55,14 +55,8 @@ export default class CirclePage extends Component {
   highlightBooth() {
     const { data: { catalogYaml: { booth_number } } } = this.props
     let booth = booth_number.replace('-', '')
-
-    if (booth.startsWith('CB')) {
-      booth = booth.replace('CB', 'Cb')
-    }
-
-    if (booth.endsWith(')')) {
-      booth = booth.replace(/ \(.+\)/, '')
-    }
+    booth = booth.replace(/ \(.+\)/g, '')
+    booth = booth.replace(/CB/g, 'Cb')
 
     if (booth.endsWith('ab')) {
       const number = booth.replace('ab', '')
