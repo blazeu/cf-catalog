@@ -1,4 +1,5 @@
 name: Petite
+sample: petite-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -11,7 +12,7 @@ fandom: >-
   Potter
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: www.facebook.com/holla.petite
+circle_facebook: 'https://www.facebook.com/holla.petite'
 circle_pixiv: '-'
 image: petite.png
 slug: petite

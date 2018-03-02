@@ -1,4 +1,5 @@
 name: Sketchsaa.id
+sample: sketchsaaid-sample.png
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,10 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: E-04b
-fandom: 'Blend S , Love live, Fate Series, Kyokai no kanata'
+fandom: "Blend S , Love live, Fate Series, Kyokai no kanata, Houseki No Kuni,\r\nBokuNo Hero Academia, Touken Ranbu, Ensamble Star, Tsuki Pro,\r\nJuuni Taisen, Vocaloid"
 rating: Parental Guidance (PG)
 circle_twitter: '-'
-circle_facebook: www.facebook.com/Sketchsaachan
+circle_facebook: 'https://www.facebook.com/sketchsaa.id'
 circle_pixiv: '-'
 image: sketchsaaid.jpg
 slug: sketchsaaid

@@ -1,4 +1,5 @@
 name: Caet Club
+sample: caet-club-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 1
@@ -6,10 +7,10 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: D-14a (SAT)
-fandom: 'Touhou Project, Hyperdimention Neptunia'
+fandom: Touhou Project
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: 'https://www.facebook.com/CaetClub/'
+circle_facebook: 'https://www.facebook.com/rizukirisaki'
 circle_pixiv: 'https://pixiv.me/pandacross'
 image: caet-club.jpg
 slug: caet-club

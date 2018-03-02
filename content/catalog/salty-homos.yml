@@ -1,4 +1,5 @@
 name: Salty homos
+sample: salty-homos-sample.jpg
 isSaturday: 0
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,10 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: D-04b (SUN)
-fandom: Shingeki no Kyojin & Original
-rating: General Audience (GA)
-circle_twitter: '@aiharustory'
-circle_facebook: aiharu
+fandom: 'Shingeki no Kyojin, Gakuen Babysitters, BTS,  & Original'
+rating: Parental Guidance (PG)
+circle_twitter: 'http://www.twitter.com/aiharustory'
+circle_facebook: 'http://www.facebook.com/aiharustory'
 circle_pixiv: '-'
 image: salty-homos.jpg
 slug: salty-homos

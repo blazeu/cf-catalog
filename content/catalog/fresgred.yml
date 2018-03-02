@@ -1,4 +1,5 @@
 name: Fresgred
+sample: fresgred-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,11 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: E-12a
-fandom: 'Fate Grand Order, BTS,'
+fandom: "FGO, Granblue Fantasy, BTS, EXO, Red Velvet, BNHA, Haikyuu!!, Mystic Messenger, D-Grayman, Persona 5, Nier; Automata, Mob Psycho, Devilman Crybaby,\r\nhttps://www.facebook.com/groups/merch.goods.ind/permalink/451242161959020/?comment_id=453106431772593&notif_id=1519946533913183&notif_t=group_comment&ref=notif"
 rating: General Audience (GA)
-circle_twitter: '@itsukiiii'
-circle_facebook: 'https://www.facebook.com/tsukkiusa2/'
+circle_twitter: 'https://twitter.com/Itsukiiii'
+circle_facebook: >-
+  https://www.facebook.com/groups/merch.goods.ind/permalink/451242161959020/?comment_id=453106431772593&notif_id=1519946533913183&notif_t=group_comment&ref=notif
 circle_pixiv: '-'
 image: fresgred.jpg
 slug: fresgred

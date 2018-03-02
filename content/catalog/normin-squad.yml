@@ -1,4 +1,5 @@
 name: Normin Squad
+sample: normin-squad-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -7,11 +8,11 @@ SellsGame: 0
 SellsCD: 0
 booth_number: H-07b
 fandom: >-
-  Houseki no Kuni, DC, Marvel, Ensemble Stars, Fate, Persona, Boku no Hero
-  Academia, Kamen Rider, Game of Thrones, Vocaloid
-rating: Parental Guidance (PG)
-circle_twitter: '-'
+  Tales of Series, Closers, Boku no Hero Academia, Fire Emblem, Ys Series,
+  Ensemble Stars
+rating: General Audience (GA)
+circle_twitter: 'https://twitter.com/gizelle_chan'
 circle_facebook: '-'
-circle_pixiv: '-'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=9999697'
 image: normin-squad.jpg
 slug: normin-squad

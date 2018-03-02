@@ -1,4 +1,5 @@
 name: Linemancer X Creepine
+sample: linemancer-x-creepine-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -8,8 +9,8 @@ SellsCD: 0
 booth_number: B-12ab
 fandom: Original
 rating: Parental Guidance (PG)
-circle_twitter: '@linemancer'
-circle_facebook: 'linemancerworks, creepine'
+circle_twitter: 'https://twitter.com/linemancer'
+circle_facebook: 'https://web.facebook.com/linemancer , https://web.facebook.com/creepine'
 circle_pixiv: '-'
 image: linemancer-x-creepine.jpg
 slug: linemancer-x-creepine

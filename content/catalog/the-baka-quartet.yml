@@ -1,4 +1,5 @@
 name: The Baka Quartet
+sample: the-baka-quartet-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -9,8 +10,9 @@ booth_number: I-10ab
 fandom: >-
   Vocaloid, Ensemble Stars, B-Project, Love Live, Detective Conan, Magic Kaito,
   No Game No Life, Boku no Hero Academia, Bungou Stray Dogs, Idolm@ster
+  Cinderella Girls, Haikyuu, Pockemon
 rating: General Audience (GA)
-circle_twitter: '@illestfairys'
+circle_twitter: 'https://twitter.com/illestfairys'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: the-baka-quartet.jpg

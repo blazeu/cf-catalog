@@ -1,4 +1,5 @@
 name: Badger Coffee
+sample: badger-coffee-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -7,10 +8,10 @@ SellsGame: 0
 SellsCD: 0
 booth_number: K-02b
 fandom: >-
-  Boku no Hero Academia, Gintama, Love Live, Danganronpa V3, King's Raid, FFXV,
-  ORIGINAL, Pokemon, BTS, BT21, K Pop
+  Boku no Hero Academia, Gintama, Danganronpa V3, King's Raid, FFXV, ORIGINAL,
+  Pokemon, BTS, BT21
 rating: General Audience (GA)
-circle_twitter: '@kaatocath'
-circle_facebook: fb.me/badgercoffee
+circle_twitter: 'https://www.twitter.com/kaatocath'
+circle_facebook: 'https://www.fb.me/badgercoffee'
 circle_pixiv: '-'
 slug: badger-coffee

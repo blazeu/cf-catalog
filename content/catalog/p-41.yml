@@ -1,4 +1,5 @@
 name: P-41
+sample: p-41-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -9,7 +10,7 @@ booth_number: I-11b
 fandom: 'Naruto, SNK, Free!, FFXV'
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: P-41
+circle_facebook: 'https://www.facebook.com/p41gallery/'
 circle_pixiv: '-'
 image: p-41.png
 slug: p-41

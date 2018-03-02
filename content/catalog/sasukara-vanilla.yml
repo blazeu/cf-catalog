@@ -1,4 +1,5 @@
 name: sasukara vanilla
+sample: sasukara-vanilla-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -8,8 +9,8 @@ SellsCD: 0
 booth_number: A-21a
 fandom: 'Bungou Stray Dogs, Boku no Hero academia, Magus Bride'
 rating: General Audience (GA)
-circle_twitter: sasukara.vanilla
-circle_facebook: sasukara vanilla
-circle_pixiv: sasaqrenz
+circle_twitter: 'https://www.twitter.com/sasukaravanilla'
+circle_facebook: 'https://www.facebook.com/sasukara.vanilla'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=3615239'
 image: sasukara-vanilla.jpg
 slug: sasukara-vanilla

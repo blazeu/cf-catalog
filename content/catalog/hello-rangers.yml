@@ -1,4 +1,5 @@
 name: Hello Rangers
+sample: hello-rangers-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 1
@@ -6,10 +7,11 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: D-05a (SAT)
-fandom: 'ghibli, game, Original'
+fandom: 'Houseki no Kuni, FGO, Original, Gakuen Babysitters'
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: '-'
+circle_facebook: >-
+  https://www.facebook.com/jessica.jessy.526/media_set?set=a.1818701871473290.1073741844.100000004835741&type=3&pnref=lhc
 circle_pixiv: '-'
 image: hello-rangers.jpg
 slug: hello-rangers

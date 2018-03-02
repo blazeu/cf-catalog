@@ -1,4 +1,5 @@
 name: kolohiro suisei
+sample: kolohiro-suisei-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 1
@@ -6,9 +7,11 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: I-05a (SAT)
-fandom: 'vocaloid, neru, utaite, my hero academia, original'
+fandom: >-
+  Neruke - Utaite - Golden Kamuy - Cookie Run - Pop Team Epic - Houseki no Kuni
+  - Devilman - Doki Doki Literature Club
 rating: General Audience (GA)
-circle_twitter: bountiperr
+circle_twitter: 'http://www.twitter.com/bountiperr'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: kolohiro-suisei.png

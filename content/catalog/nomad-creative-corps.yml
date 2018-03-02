@@ -7,10 +7,12 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: H-12ab-13ab
-fandom: 'BNHA,Ghibli, Cardcaptor Sakura, Super Junior'
+fandom: >-
+  Super sentai, kamen rider, super robot, persona 5, gundam, BnH, nier,
+  overwatch, game online elsword, Original work, dll.
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: 'https://www.facebook.com/hapigorashop'
+circle_facebook: 'https://www.facebook.com/pg/NOMADCreativeCorps'
 circle_pixiv: '-'
 image: nomad-creative-corps.jpeg
 slug: nomad-creative-corps

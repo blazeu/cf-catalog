@@ -1,4 +1,5 @@
 name: XiaoKen Shop
+sample: xiaoken-shop-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -6,7 +7,7 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: B-14b
-fandom: Original
+fandom: 'Original, Granblue Fantasy'
 rating: General Audience (GA)
 circle_twitter: '-'
 circle_facebook: 'https://www.facebook.com/XiaoKenShop/'

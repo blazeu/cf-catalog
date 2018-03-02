@@ -1,4 +1,5 @@
 name: BUBO
+sample: bubo-sample.png
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -6,9 +7,12 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: I-04a
-fandom: 'Youtubers, Walking Dead: The Game, Mystic Messenger, Ghibli,'
+fandom: >-
+  Youtubers, Walking Dead: The Game, Ghibli, Doki Doki Literature Club, Houseki
+  no Kuni, Mahoutsukai no Yome, Miss Kobayashi's Dragon Maid, The Amazing World
+  of Gumball
 rating: General Audience (GA)
-circle_twitter: '@vegaspica_'
+circle_twitter: '-'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: bubo.jpg

@@ -1,4 +1,5 @@
 name: Dellarielys
+sample: dellarielys-sample.png
 isSaturday: 1
 isSunday: 0
 SellsBooks: 0
@@ -6,7 +7,9 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: I-19b (SAT)
-fandom: 'Boku no Hero Academia, Idolish7, Touken Ranbu, Fire Emblem, Yuri on Ice'
+fandom: >-
+  Boku no Hero Academia, Idolish7, Touken Ranbu, Fire Emblem, Yuri on Ice,
+  Houseki no Kuni, Violet Evergarden, Mystic Messenger, original
 rating: General Audience (GA)
 circle_twitter: '-'
 circle_facebook: '-'

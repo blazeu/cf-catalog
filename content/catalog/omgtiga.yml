@@ -1,4 +1,5 @@
 name: omgtiga
+sample: omgtiga-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,11 +7,9 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: A-40b
-fandom: >-
-  MYDAY (DAY6), CARAT (SEVENTEEN), WANNABLE (WANNAONE), STRANGER THINGS,
-  FANTASTIC BEASTS
+fandom: 'BTS, DAY6, SEVENTEEN, WANNAONE, WINNER, IKON'
 rating: General Audience (GA)
-circle_twitter: meyaooong x sobisubi
+circle_twitter: 'https://twitter.com/meyaooong'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: omgtiga.jpg

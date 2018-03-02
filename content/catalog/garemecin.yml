@@ -1,4 +1,5 @@
 name: garemecin
+sample: garemecin-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -7,8 +8,10 @@ SellsGame: 0
 SellsCD: 0
 booth_number: A-29ab
 fandom: >-
-  bts, wannaone, danganronpa V3, Mob Psycho100, Boku no Hero Academia, Kagepro,
-  Tokyo Ghoul
+  bts, wannaone, danganronpa V3, Devilman Crybaby, Boku no Hero Academia,
+  Kagepro, Tokyo Ghoul, Seventeen, Red Velvet, Exo, Gakuen Babysitters,
+  Cardcaptor Sakura, Bungou Stray Dogs, Kuroshitsuji / Black Butler,
+  Poputepipikku / Pop Team Epic
 rating: General Audience (GA)
 circle_twitter: '-'
 circle_facebook: '-'

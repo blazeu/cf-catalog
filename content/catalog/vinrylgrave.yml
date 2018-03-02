@@ -1,4 +1,5 @@
 name: Vinrylgrave
+sample: vinrylgrave-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,10 @@ SellsMerch: 0
 SellsGame: 0
 SellsCD: 0
 booth_number: CB30
-fandom: 'Boku no Hero Academia, Onepiece, Onepunchman, Yurionice, Naruto'
+fandom: 'Boku no Hero Academia, Onepiece, Onepunchman, Yurionice, Naruto, D-Grayman'
 rating: General Audience (GA)
-circle_twitter: Twitter.com/vinrylgrave
-circle_facebook: Facebook.com/artvinrylgrave
+circle_twitter: 'https://twitter.com/vinrylgrave'
+circle_facebook: 'https://www.facebook.com/artvinrylgrave/'
 circle_pixiv: '-'
 image: vinrylgrave.JPG
 slug: vinrylgrave

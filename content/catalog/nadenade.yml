@@ -1,4 +1,5 @@
 name: nadenade
+sample: nadenade-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -9,7 +10,7 @@ booth_number: L-01b
 fandom: 'Tsukiuta, Tales of Zestiria, Haikyuu, Touken Ranbu, K-pop'
 rating: Mature Content (M)
 circle_twitter: '-'
-circle_facebook: '-'
+circle_facebook: 'https://web.facebook.com/Cereus-Furvus-1190731587729812/'
 circle_pixiv: '-'
 image: nadenade.jpg
 slug: nadenade

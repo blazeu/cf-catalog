@@ -1,4 +1,5 @@
 name: RAIT Visual Works
+sample: rait-visual-works-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -11,6 +12,6 @@ fandom: >-
   anime, overwatch
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: RAIT Visual Works
+circle_facebook: 'https://www.facebook.com/raitvisualworks/'
 circle_pixiv: '-'
 slug: rait-visual-works

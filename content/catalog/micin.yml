@@ -1,4 +1,5 @@
 name: Micin
+sample: micin-sample.png
 isSaturday: 0
 isSunday: 1
 SellsBooks: 0
@@ -8,7 +9,7 @@ SellsCD: 0
 booth_number: C-15b (SUN)
 fandom: 'Original, Mystic Messenger, i-M@s, BTS, Letter Bee, Doki-Doki Literate Club'
 rating: General Audience (GA)
-circle_twitter: hanhamiya
+circle_twitter: 'https://twitter.com/hanhamiya'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: micin.jpg

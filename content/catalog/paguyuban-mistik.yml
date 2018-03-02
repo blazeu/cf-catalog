@@ -1,4 +1,5 @@
 name: Paguyuban Mistik
+sample: paguyuban-mistik-sample.png
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,7 +7,9 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: K-11a
-fandom: 'Touken Ranbu, Marvel Cinematic Universe, Voltron'
+fandom: >-
+  Touken Ranbu, MCU, BNHA, Violet Evergarden, Pop Team Epic, Blend S, Kakegurui,
+  Tsukiuta, MM, Gakuen Babysitter
 rating: General Audience (GA)
 circle_twitter: 'https://twitter.com/paguyubanmistik'
 circle_facebook: 'https://www.facebook.com/masdemitri'

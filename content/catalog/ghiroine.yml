@@ -1,4 +1,5 @@
 name: GHIROINE
+sample: ghiroine-sample.png
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,9 +7,9 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: CB11
-fandom: 'Studio Ghibli, Persona 5, Mystic Messenger, Card Captor Sakura, IB, Haikyuu'
+fandom: 'Studio Ghibli, Mystic Messenger, Card Captor Sakura, IB, Haikyuu'
 rating: General Audience (GA)
-circle_twitter: '@_spaceial_'
+circle_twitter: 'https://twitter.com/_spaceial_'
 circle_facebook: '-'
 circle_pixiv: 'https://www.pixiv.net/member.php?id=9386920'
 slug: ghiroine

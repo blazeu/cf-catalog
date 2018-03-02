@@ -1,4 +1,5 @@
 name: Canberus
+sample: canberus-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 1
@@ -8,10 +9,11 @@ SellsCD: 0
 booth_number: G-20ab (SAT)
 fandom: >-
   Danganronpa, Mystic Messenger, Original, Otome Game, Natsume Yuujinchou,
-  Saiyuki, Boku no Hero Academia, Happy Tree Friend, etc.
+  Saiyuki, Final Fantasy XV, Tales of Zestiria, Card Captor Sakura, Aldnoah
+  Zero, Pandora Hearts, Utaite, Kagerou Project, etc.
 rating: General Audience (GA)
-circle_twitter: 'https://twitter.com/xoraxiii (personal)'
+circle_twitter: 'https://twitter.com/xoraxiii'
 circle_facebook: 'https://www.facebook.com/canberus/'
-circle_pixiv: 'https://www.pixiv.net/member.php?id=6142983 (personal)'
+circle_pixiv: 'https://www.pixiv.net/member.php?id=6142983'
 image: canberus.jpg
 slug: canberus

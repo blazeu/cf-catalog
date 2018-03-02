@@ -1,4 +1,5 @@
 name: Milky Way
+sample: milky-way-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 0
@@ -8,7 +9,7 @@ SellsCD: 0
 booth_number: A-41ab (SAT)
 fandom: 'Original, K-pop, VIXX'
 rating: Parental Guidance (PG)
-circle_twitter: djenanggulo
+circle_twitter: 'https://twitter.com/djenanggulo'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: milky-way.jpg

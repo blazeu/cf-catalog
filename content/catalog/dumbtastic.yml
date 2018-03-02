@@ -1,4 +1,5 @@
 name: Dumbtastic
+sample: dumbtastic-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,8 +7,10 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: B-08a
-fandom: 'Original, Touhou AND MORE! .'
-rating: Parental Guidance (PG)
+fandom: >-
+  Original, Touhou, Fate Stay Night, Boku no Hero Academia (BnHA), Girls Last
+  Tour, Vocaloid, Yuru Camp, Dorohedoro.
+rating: General Audience (GA)
 circle_twitter: '-'
 circle_facebook: '-'
 circle_pixiv: '-'

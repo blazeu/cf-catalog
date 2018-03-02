@@ -1,4 +1,5 @@
 name: George Velasquez
+sample: george-velasquez-sample.png
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,11 +7,9 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 1
 booth_number: H-01ab
-fandom: >-
-  Dragon Age, DC Comics, SNK, Cartoon Network, Power Rangers, Persona 5, Fire
-  Emblem, Original
+fandom: 'Dragon Age, RWBY, DC Comics, Power Rangers, Persona 5, Fire Emblem, Original'
 rating: Mature Content (M)
-circle_twitter: '@barafireman'
+circle_twitter: 'http://twitter.com/barafireman'
 circle_facebook: 'http://facebook.com/BaraFireman'
 circle_pixiv: '-'
 image: george-velasquez.jpg

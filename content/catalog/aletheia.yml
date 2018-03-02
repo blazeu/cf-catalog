@@ -1,4 +1,5 @@
 name: Aletheia
+sample: aletheia-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -8,9 +9,9 @@ SellsCD: 0
 booth_number: K-14ab
 fandom: >-
   Touken Ranbu, Pokemon, Owari no Seraph, Fire Emblem, Sound Horizon, Yuri on
-  Ice, Kantai Collection
+  Ice, Kantai Collection, original, Houseki no Kuni, Dungeon Meshi
 rating: Parental Guidance (PG)
-circle_twitter: piyostoria
+circle_twitter: 'https://twitter.com/PiyoStoria'
 circle_facebook: 'https://www.facebook.com/aletheiacircle/'
 circle_pixiv: '-'
 image: aletheia.jpg

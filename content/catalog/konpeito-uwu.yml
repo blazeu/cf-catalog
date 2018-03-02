@@ -1,4 +1,5 @@
 name: Konpeito UwU
+sample: konpeito-uwu-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -7,11 +8,13 @@ SellsGame: 0
 SellsCD: 0
 booth_number: J-04b
 fandom: >-
-  Boku no Hero Academia, Haikyuu!!, One Piece, Phoenix Wright, Persona, Final
-  Fantasy, Stranger Things
+  Boku no Hero Academia, Fullmetal Alchemist, BTS, EXO, Neko to Ojiisan, Famous
+  Cat of the Internet/Cat Meme, Fushigi Neko no Kyuu-chan, , Final Fantasy,
+  Harry Potter, Star Wars, Fire Emblem:Heroes, Crash Bandicoot, Kimi No Nawa,
+  Persona 5, Pluto
 rating: General Audience (GA)
-circle_twitter: '@artemicionn'
-circle_facebook: '-'
+circle_twitter: 'https://twitter.com/konpeito_UwU/'
+circle_facebook: 'http://bit.ly/2CNQ7Ng'
 circle_pixiv: '-'
 image: konpeito-uwu.jpg
 slug: konpeito-uwu

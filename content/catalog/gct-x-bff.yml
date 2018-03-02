@@ -1,4 +1,5 @@
 name: GCT X BFF
+sample: gct-x-bff-sample.jpg
 isSaturday: 0
 isSunday: 1
 SellsBooks: 0
@@ -7,9 +8,9 @@ SellsGame: 1
 SellsCD: 0
 booth_number: A-15ab (SUN)
 fandom: 'Original, Touhou'
-rating: General Audience (GA)
-circle_twitter: FatraCrimson
-circle_facebook: GreatConspiracyTheory
+rating: Parental Guidance (PG)
+circle_twitter: 'https://twitter.com/FatraCrimson'
+circle_facebook: 'https://www.facebook.com/GreatConspiracyTheory/'
 circle_pixiv: '-'
 image: gct-x-bff.jpg
 slug: gct-x-bff

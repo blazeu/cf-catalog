@@ -1,4 +1,5 @@
 name: PRIMAVERA
+sample: primavera-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,12 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: H-16ab
-fandom: 'Marvel, DC, Overwatch, Game and Movies, Ghibli'
+fandom: >-
+  WEST : MCU, DC, Hannibal, / GAME : Overwatch, FF, MM / ANIME : BnHa, Hnk,
+  Ghibli, Little Witch Academia / ORIGINAL
 rating: Parental Guidance (PG)
-circle_twitter: '@reiyanimu'
+circle_twitter: '-'
 circle_facebook: 'https://www.facebook.com/primavera.goods/'
-circle_pixiv: 'https://pixiv.me/reiyachan'
+circle_pixiv: '-'
 image: primavera.jpg
 slug: primavera

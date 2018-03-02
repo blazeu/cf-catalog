@@ -1,4 +1,5 @@
 name: Piranha X Takogals
+sample: piranha-x-takogals-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,9 +7,11 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: A-17ab-18ab
-fandom: 'HAIKYUU!!, Yurii! On Ice, Persona5, Haikyuu!!, Akatsuki No Yona'
+fandom: >-
+  Houseki no Kuni, BTS, RWBY, Yurii! On Ice, Persona5, Professor Layton,
+  Haikyuu!!, Akatsuki No Yona, One Piece
 rating: General Audience (GA)
-circle_twitter: '@PiranhaHiro'
+circle_twitter: 'https://twitter.com/PiranhaHiro?lang=en'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: piranha-x-takogals.jpg

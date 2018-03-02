@@ -1,4 +1,5 @@
 name: '69'
+sample: 69-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -10,7 +11,7 @@ fandom: >-
   Boku no Hero Academia, Joker Game, Gintama, Persona, JoJo's Bizzare Adventure,
   Animal Crossing, Game of Thrones, original
 rating: General Audience (GA)
-circle_twitter: '@kureha_alpha'
+circle_twitter: 'https://twitter.com/kureha_alpha'
 circle_facebook: 'https://www.facebook.com/69circle/'
 circle_pixiv: 'http://pixiv.me/kureha-alpha'
 image: 69.png

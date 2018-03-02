@@ -1,4 +1,5 @@
 name: Tomatomoe
+sample: tomatomoe-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 1
@@ -7,8 +8,11 @@ SellsGame: 0
 SellsCD: 0
 booth_number: F-20ab (SAT)
 fandom: >-
-  Fate/GO , Granblue Fantasy, PUBG, Violet Evergarden, Ghibli, ball jointed doll
-  photobook, figure photobook
+  Fate/Grand Order , Granblue Fantasy, PUBG, Violet Evergarden, Ghibli, Macross
+  Delta, Mini Dollfie Dream, Figure Photography, Touhou, Vocaloid, Idolmaster
+  Cinderella Girls, Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~, Kimi no
+  Na Wa, Kantai Collection, Love Live School Idol Festival,  Kono Subarashii
+  Sekai ni Shukufuku wo!, Re:Zero, Overwatch
 rating: General Audience (GA)
 circle_twitter: 'http://www.twitter.com/josuu_san'
 circle_facebook: 'http://www.facebook.com/tomatomoee'

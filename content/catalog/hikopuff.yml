@@ -1,4 +1,5 @@
 name: HIKOPUFF
+sample: hikopuff-sample.jpg
 isSaturday: 1
 isSunday: 0
 SellsBooks: 0
@@ -8,9 +9,9 @@ SellsCD: 0
 booth_number: L-04b (SAT)
 fandom: >-
   Haikyuu!!, Boku No Hero Academia, Bungou Stray Dogs, Ghilbi, Love Live!,
-  BABYMETAL, Sakamichi46
+  BABYMETAL, Sakamichi46, Yugi Oh!, Death Note, Persona 5
 rating: General Audience (GA)
-circle_twitter: hikopuff
+circle_twitter: 'https://twitter.com/hikopuff'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: hikopuff.jpeg

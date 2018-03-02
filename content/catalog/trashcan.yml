@@ -1,4 +1,5 @@
 name: Trashcan
+sample: trashcan-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,12 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: E-01b
-fandom: Love Live!
+fandom: >-
+  Love Live!, Citrus, Puella Magi Madoka Magica, Hibike! Euphonium, New Game!,
+  Sakura Trick, Netsuzou TRap
 rating: Parental Guidance (PG)
 circle_twitter: '-'
 circle_facebook: '-'
-circle_pixiv: pixiv.me/aiwairanai
+circle_pixiv: 'https://www.pixiv.net/member.php?id=14720702'
 image: trashcan.jpeg
 slug: trashcan

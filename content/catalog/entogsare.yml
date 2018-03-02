@@ -1,4 +1,5 @@
 name: éntogsaré
+sample: entogsare-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -6,9 +7,12 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: K-10ab
-fandom: 'Ichu, Haikyuu, Boku no Hero Academia, granblue fantasy'
+fandom: >-
+  Granblue Fantasy, Gakuen Babysitters, Haikyuu, Miira No Kaikata, Undertale,
+  Stranger Things, Heathers, Mogeko, Kotonoha Project, Boku No Hero Academia,
+  Svtfoe, Steven Universe, Ichuu, Pop Team Epic, Cardcaptor Sakura
 rating: General Audience (GA)
-circle_twitter: entogsare
+circle_twitter: 'http://twitter.com/entogsare'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: entogsare.jpg

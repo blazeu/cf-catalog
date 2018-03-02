@@ -1,4 +1,5 @@
 name: Frozen Star
+sample: frozen-star-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -6,9 +7,11 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: C-04ab
-fandom: Original
+fandom: >-
+  Fate Series, Hamilton, Voltron, Naruto, Fairy Tail, Bungou Stray Dogs, Boku no
+  Hero Academia
 rating: General Audience (GA)
-circle_twitter: '-'
+circle_twitter: 'https://www.twitter.com/frozenstar8'
 circle_facebook: '-'
 circle_pixiv: '-'
 image: frozen-star.jpg

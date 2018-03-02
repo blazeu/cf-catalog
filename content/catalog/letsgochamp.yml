@@ -1,4 +1,5 @@
 name: LetsGoChamp
+sample: letsgochamp-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -7,9 +8,8 @@ SellsGame: 0
 SellsCD: 0
 booth_number: G-14ab
 fandom: >-
-  Overwatch Esports, Destiny 2, Bethesda, DC Comics, Marvel, Star Wars, Western
-  Movies/TV Series, Video Games in General, Boku no Hero Academia, Fate/Grand
-  Order, Kekkai Sensen
+  Overwatch, DC Comics, Marvel, Star Wars, Western Movies/TV Series, Video Games
+  in General, Boku no Hero Academia, Fate/Grand Order, Devilman Crybaby
 rating: Parental Guidance (PG)
 circle_twitter: '-'
 circle_facebook: '-'

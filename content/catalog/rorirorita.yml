@@ -1,4 +1,5 @@
 name: Rorirorita
+sample: rorirorita-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -7,11 +8,11 @@ SellsGame: 0
 SellsCD: 0
 booth_number: K-04ab
 fandom: >-
-  Ensemble Stars!, Original, Gochuumon wa Usagi Desu ka, Show by Rock, FGO,
-  Vocaloid, Haikyuu, Danganronpa
+  Ensemble Stars!, Gochuumon wa Usagi Desu ka, Show by Rock, FGO, Vocaloid,
+  Haikyuu, Danganronpa, Tanaka wa Itsumo Kedaruge, Yuru Camp, Cardcaptor Sakura
 rating: General Audience (GA)
 circle_twitter: '-'
 circle_facebook: 'https://www.facebook.com/roriroritacircle/'
-circle_pixiv: pixiv.me/hikariin25
+circle_pixiv: 'https://pixiv.me/hikariin25'
 image: rorirorita.jpg
 slug: rorirorita

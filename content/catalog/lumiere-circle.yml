@@ -1,4 +1,5 @@
 name: Lumière Circle
+sample: lumiere-circle-sample.JPG
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,7 +7,7 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: H-14b
-fandom: 'Ghibli, Fate, Love Live, Kamen Rider'
+fandom: 'Ghibli, Kamen Rider, Yuru Camp, Kimi no na wa'
 rating: General Audience (GA)
 circle_twitter: '-'
 circle_facebook: 'https://www.facebook.com/lumierecircle'

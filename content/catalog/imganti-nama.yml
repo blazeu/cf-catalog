@@ -1,4 +1,5 @@
 name: /img/anti Nama
+sample: imganti-nama-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,7 +7,7 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: B-01b
-fandom: 'original, Yuri! on Ice, Pokemon, Houseki no Kuni, Ghibli,'
+fandom: 'original, Yuri! on Ice, Pokemon, Houseki no Kuni, Ghibli, Sherlock'
 rating: Parental Guidance (PG)
 circle_twitter: '-'
 circle_facebook: '-'

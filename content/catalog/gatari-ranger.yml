@@ -1,4 +1,5 @@
 name: GATARI RANGER
+sample: gatari-ranger-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,7 +7,9 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: I-15ab
-fandom: 'NARUTO, Fullmetal Alchemist, Tsukiuta, LoveLive!, Haikyuu!, Original, etc.'
+fandom: >-
+  NARUTO, Fullmetal Alchemist, Tsukiuta, Tsukipro, LoveLive!, Haikyuu!, SPYAIR,
+  Original, Itabag, etc.
 rating: General Audience (GA)
 circle_twitter: 'https://twitter.com/GatariRanger'
 circle_facebook: 'https://www.facebook.com/gatari.ranger/'

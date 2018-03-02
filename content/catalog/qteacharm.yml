@@ -1,4 +1,5 @@
 name: Qteacharm
+sample: qteacharm-sample.jpeg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 0
@@ -9,7 +10,7 @@ booth_number: H-17a
 fandom: 'Ghibli, Sanrio, San-X'
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: '-'
+circle_facebook: 'https://www.facebook.com/qteacharm/'
 circle_pixiv: '-'
 image: qteacharm.jpg
 slug: qteacharm

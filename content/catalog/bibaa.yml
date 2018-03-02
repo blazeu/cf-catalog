@@ -1,4 +1,5 @@
 name: Bibaa
+sample: bibaa-sample.jpg
 isSaturday: 1
 isSunday: 1
 SellsBooks: 1
@@ -6,10 +7,10 @@ SellsMerch: 1
 SellsGame: 0
 SellsCD: 0
 booth_number: E-11a
-fandom: 'Fate Grand Order, Mytic messanger, Konosuba, Re Zero'
+fandom: 'Fate Grand Order, Cardcaptor Sakura Mytic messanger, Konosuba, Re Zero'
 rating: General Audience (GA)
 circle_twitter: '-'
-circle_facebook: '-'
+circle_facebook: 'https://www.facebook.com/momokoscarletarts'
 circle_pixiv: '-'
 image: bibaa.jpg
 slug: bibaa
