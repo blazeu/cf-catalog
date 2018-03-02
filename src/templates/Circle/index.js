@@ -29,6 +29,10 @@ export default class CirclePage extends Component {
     bookmarked: isBookmarked(this.props.data.catalogYaml.slug),
   }
 
+  handleBackButtonClick = () => {
+    goBack(this.context.router.history)
+  }
+
   handleBookmarkClick = () => {
     toggleBookmark(this.props.data.catalogYaml.slug)
     this.setState({ bookmarked: !this.state.bookmarked })
@@ -45,10 +49,7 @@ export default class CirclePage extends Component {
 
         <Header>
           <div className="w-100 d-flex align-items-center">
-            <a
-              className="icon"
-              onClick={() => goBack(this.context.router.history)}
-            >
+            <a className="icon" onClick={this.handleBackButtonClick}>
               <FontAwesomeIcon icon={faArrowLeft} size="lg" />
             </a>
 
