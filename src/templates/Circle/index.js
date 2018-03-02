@@ -16,6 +16,7 @@ import {
   faTwitterSquare,
 } from '@fortawesome/fontawesome-free-brands'
 import Header from '../../components/Header'
+import VenueMap from '../../components/VenueMap'
 import { isBookmarked, toggleBookmark } from '../../lib/bookmark'
 import { goBack } from '../../lib/back'
 
@@ -49,6 +50,26 @@ export default class CirclePage extends Component {
       text: `${circle.name} on Comic Frontier X`,
       url: window.location.href,
     })
+  }
+
+  highlightBooth() {
+    const { data: { catalogYaml: { booth_number } } } = this.props
+    let booth = booth_number.replace('-', '')
+
+    if (booth.startsWith('CB')) {
+      booth = booth.replace('CB', 'Cb')
+    }
+
+    if (booth.endsWith(')')) {
+      booth = booth.replace(/ \(.+\)/, '')
+    }
+
+    if (booth.endsWith('ab')) {
+      const number = booth.replace('ab', '')
+      booth = [`${number}a`, `${number}b`]
+    }
+
+    return [].concat(booth)
   }
 
   render() {
@@ -124,6 +145,10 @@ export default class CirclePage extends Component {
           <p className="text-center">{circle.fandom}</p>
 
           <Sample {...circle} />
+
+          <hr />
+          <h6 className="text-center mb-3">Booth Location</h6>
+          <VenueMap booths={this.highlightBooth()} />
         </div>
       </Fragment>
     )
