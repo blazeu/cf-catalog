@@ -129,6 +129,8 @@ export default class IndexPage extends Component {
 
         <div className="container mt-3">
           {empty}
+          {bookmarkMode &&
+            !empty && <p className="text-muted text-center">Bookmark</p>}
           <CircleScroller circles={circles} query={query} />
         </div>
 
