@@ -7,6 +7,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-next`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-purify-css`,
     {
       resolve: `gatsby-plugin-postcss-sass`,
       options: {
