@@ -163,7 +163,10 @@ const Sample = ({ sample, name }) =>
   sample && (
     <Fragment>
       <hr />
-      <h6 className="text-center">Sample works</h6>
+      <h6 className="text-center mb-0">Sample works</h6>
+      <small className="d-block text-center text-muted mb-2">
+        press to enlarge
+      </small>
       <a target="_blank" href={sample.childImageSharp.sizes.src}>
         <Img
           sizes={sample.childImageSharp.sizes}
