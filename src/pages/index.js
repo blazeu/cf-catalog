@@ -15,8 +15,7 @@ import Filter from '../components/Filter'
 import { getBookmarked } from '../lib/bookmark'
 import { getCircles } from '../lib/circles'
 import { saveFilter, loadFilter } from '../lib/filter'
-
-const windowGlobal = typeof window !== 'undefined' && window
+import { windowGlobal } from '../lib/utils'
 
 export default class IndexPage extends Component {
   state = {

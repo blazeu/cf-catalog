@@ -1,4 +1,5 @@
-const windowGlobal = typeof window !== 'undefined' && window
+import windowGlobal from './utils'
+
 const storageAdapter = windowGlobal
   ? windowGlobal.localStorage
   : { getItem: () => null, setItem: () => {} }
