@@ -158,7 +158,7 @@ const EmptyBookmark = () => (
   <div className="text-center">
     <p className="h4 m-0 text-muted">No bookmarked item.</p>
     <small className="text-muted d-block">
-      Click the star icon on a circle page to bookmark it.
+      Press the star icon on a circle page to bookmark it
     </small>
     <small className="text-muted">... or check your filter settings?</small>
   </div>
