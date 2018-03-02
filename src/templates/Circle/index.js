@@ -71,7 +71,7 @@ export default class CirclePage extends Component {
             </h1>
 
             <div className="ml-auto d-flex">
-              {browserShareSupported() ? (
+              {browserShareSupported() && (
                 <a
                   className={`
                     icon
@@ -81,8 +81,6 @@ export default class CirclePage extends Component {
                 >
                   <FontAwesomeIcon icon={faShareAlt} size="lg" />
                 </a>
-              ) : (
-                ''
               )}
 
               <a
@@ -104,14 +102,12 @@ export default class CirclePage extends Component {
         </Header>
 
         <div className="circle-page container">
-          {circle.image ? (
+          {circle.image && (
             <Img
               resolutions={circle.image.childImageSharp.resolutions}
               alt={circle.name}
               className="d-block mx-auto"
             />
-          ) : (
-            ''
           )}
 
           <hr />
@@ -138,14 +134,14 @@ const hasThing = str => str !== '-' && str.toLowerCase() !== 'none'
 
 const Social = ({ circle_facebook, circle_twitter, circle_pixiv }) => (
   <div className="d-flex flex-wrap justify-content-center">
-    {hasThing(circle_facebook) ? <Facebook link={circle_facebook} /> : ''}
-    {hasThing(circle_twitter) ? <Twitter link={circle_twitter} /> : ''}
-    {hasThing(circle_pixiv) ? <Pixiv link={circle_pixiv} /> : ''}
+    {hasThing(circle_facebook) && <Facebook link={circle_facebook} />}
+    {hasThing(circle_twitter) && <Twitter link={circle_twitter} />}
+    {hasThing(circle_pixiv) && <Pixiv link={circle_pixiv} />}
   </div>
 )
 
 const Sample = ({ sample, name }) =>
-  sample ? (
+  sample && (
     <Fragment>
       <hr />
       <h6 className="text-center">Sample works</h6>
@@ -157,8 +153,6 @@ const Sample = ({ sample, name }) =>
         />
       </a>
     </Fragment>
-  ) : (
-    ''
   )
 
 const day = ({ isSunday, isSaturday }) => {
@@ -200,7 +194,7 @@ const SocialLink = ({ str, icon, fallbackUrl }) => {
       <a href={link} target="_blank" className="d-block mx-2">
         <FontAwesomeIcon icon={icon} size="2x" />
       </a>
-      {unsure ? <div>{str}</div> : ''}
+      {unsure && <div>{str}</div>}
     </div>
   )
 }

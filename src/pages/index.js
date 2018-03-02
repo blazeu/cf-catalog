@@ -132,15 +132,13 @@ export default class IndexPage extends Component {
           <CircleScroller circles={circles} query={query} />
         </div>
 
-        {filterOpen ? (
+        {filterOpen && (
           <Filter
             filter={filter}
             count={circles.length}
             onClose={this.handleFilterClick}
             onChange={this.handleFilterChange}
           />
-        ) : (
-          ''
         )}
       </Fragment>
     )

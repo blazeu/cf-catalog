@@ -35,7 +35,7 @@ export default class Filter extends Component {
         </a>
         <div className="d-flex">
           <h6>Filter</h6>
-          <h6 className="ml-auto">{count > 0 ? count : ''}</h6>
+          <h6 className="ml-auto">{count > 0 && count}</h6>
         </div>
         <label htmlFor="filterDay">By day</label>
         <select
