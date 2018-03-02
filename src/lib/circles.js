@@ -3,9 +3,13 @@ export const getCircles = (circles, filterObj = {}, query = '') => {
 
   return circles.filter(({ node }) => {
     return (
-      (node.name.toLowerCase().includes(search) ||
-        node.fandom.toLowerCase().includes(search)) &&
-      filter(node, filterObj)
+      ''
+        .concat(
+          node.name.toLowerCase(),
+          node.fandom.toLowerCase(),
+          node.booth_number.toLowerCase()
+        )
+        .includes(search) && filter(node, filterObj)
     )
   })
 }
