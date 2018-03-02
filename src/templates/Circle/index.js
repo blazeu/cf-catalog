@@ -8,6 +8,7 @@ import {
   faUserCircle,
   faArrowLeft,
   faStar as faStarSolid,
+  faShareAlt,
 } from '@fortawesome/fontawesome-free-solid'
 import { faStar } from '@fortawesome/fontawesome-free-regular'
 import {
@@ -19,6 +20,8 @@ import { isBookmarked, toggleBookmark } from '../../lib/bookmark'
 import { goBack } from '../../lib/back'
 
 import './circle.scss'
+
+const windowGlobal = typeof window !== 'undefined' && window
 
 export default class CirclePage extends Component {
   static contextTypes = {
@@ -36,6 +39,16 @@ export default class CirclePage extends Component {
   handleBookmarkClick = () => {
     toggleBookmark(this.props.data.catalogYaml.slug)
     this.setState({ bookmarked: !this.state.bookmarked })
+  }
+
+  handleShareClick = () => {
+    const { data: { catalogYaml: circle } } = this.props
+
+    windowGlobal.navigator.share({
+      title: circle.name,
+      text: `${circle.name} on Comic Frontier X`,
+      url: window.location.href,
+    })
   }
 
   render() {
@@ -57,21 +70,36 @@ export default class CirclePage extends Component {
               {circle.name}
             </h1>
 
-            <a
-              className={`
-                icon
-                circle-page-bookmark
-                ml-auto
-              `}
-              onClick={this.handleBookmarkClick}
-            >
-              <div className={bookmarked ? 'd-none' : ''}>
-                <FontAwesomeIcon icon={faStar} size="lg" />
-              </div>
-              <div className={bookmarked ? '' : 'd-none'}>
-                <FontAwesomeIcon icon={faStarSolid} size="lg" />
-              </div>
-            </a>
+            <div className="ml-auto d-flex">
+              {browserShareSupported() ? (
+                <a
+                  className={`
+                    icon
+                    mr-4
+                    `}
+                  onClick={this.handleShareClick}
+                >
+                  <FontAwesomeIcon icon={faShareAlt} size="lg" />
+                </a>
+              ) : (
+                ''
+              )}
+
+              <a
+                className={`
+                      icon
+                      circle-page-bookmark
+                      `}
+                onClick={this.handleBookmarkClick}
+              >
+                <div className={bookmarked ? 'd-none' : ''}>
+                  <FontAwesomeIcon icon={faStar} size="lg" />
+                </div>
+                <div className={bookmarked ? '' : 'd-none'}>
+                  <FontAwesomeIcon icon={faStarSolid} size="lg" />
+                </div>
+              </a>
+            </div>
           </div>
         </Header>
 
@@ -220,6 +248,8 @@ const Pixiv = ({ link }) => {
     />
   )
 }
+
+const browserShareSupported = () => !!get(windowGlobal, 'navigator.share')
 
 export const query = graphql`
   query CirclePage($slug: String!) {
