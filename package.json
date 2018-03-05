@@ -7,7 +7,7 @@
     "build": "gatsby build",
     "extract": "node tools/extract.js"
   },
-  "author": "Prototype Interactive",
+  "author": "blazeu <neversleepman@tfwno.gf>",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.4",
@@ -47,10 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrototypeInteractive/gatsby-react-boilerplate.git"
+    "url": "git+https://github.com/blazeu/cf-catalog.git"
   },
   "bugs": {
-    "url": "https://github.com/PrototypeInteractive/gatsby-react-boilerplate/issues"
+    "url": "https://github.com/blazeu/cf-catalog/issues"
   },
-  "homepage": "https://github.com/PrototypeInteractive/gatsby-react-boilerplate#readme"
+  "homepage": "https://github.com/blazeu/cf-catalog#readme"
 }
